@@ -2,7 +2,7 @@
   "expo": {
     "name": "mat-do-zero-app-react-native",
     "slug": "mat-do-zero-app-react-native",
-    "version": "1.0.0",
+    "version": "2.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
@@ -15,13 +15,16 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.rafaelxulipa.matdozeroappreactnative"
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.rafaelxulipa.matdozeroappreactnative",
+      "versionCode": 2
     },
     "web": {
       "favicon": "./assets/favicon.ico"
