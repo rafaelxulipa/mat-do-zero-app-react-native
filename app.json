@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Matemática do Zero",
-    "slug": "matematica-do-zero",
+    "slug": "mat-do-zero-app-react-native",
     "version": "3.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
